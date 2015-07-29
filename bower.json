@@ -1,0 +1,20 @@
+{
+  "name": "flappybird-landingpage",
+  "version": "0.0.0",
+  "homepage": "https://github.com/smilofactor/flappybird",
+  "authors": [
+    "Steve M <smilovidov@gmail.com>"
+  ],
+  "description": "Flappy Bird Landing Page Project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "~4.2.3"
+  }
+}
